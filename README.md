@@ -5,5 +5,7 @@ community contributions welcome! make a PR using en_us.json's content as the bas
 <!-- translation-coverage:start -->
 ## Translation Coverage
 
-No translation files have been added yet.
+| Locale | Covered | Percentage |
+| --- | ---: | ---: |
+| `test` | 541/541 | 100.0% |
 <!-- translation-coverage:end -->
