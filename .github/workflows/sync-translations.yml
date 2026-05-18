@@ -2,15 +2,7 @@ name: Sync translations
 
 on:
   push:
-    paths:
-      - "*.json"
-      - .github/workflows/sync-translations.yml
-      - scripts/sync_translations.py
   pull_request:
-    paths:
-      - "*.json"
-      - .github/workflows/sync-translations.yml
-      - scripts/sync_translations.py
   workflow_dispatch:
 
 permissions:
