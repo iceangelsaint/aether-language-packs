@@ -7,5 +7,6 @@ community contributions welcome! make a PR using en_us.json's content as the bas
 
 | Locale | Covered | Percentage |
 | --- | ---: | ---: |
+| `fr_ca` | 0/541 | 0.0% |
 | `test` | 541/541 | 100.0% |
 <!-- translation-coverage:end -->
