@@ -536,5 +536,10 @@
   "text.aether.humanization": "test",
   "text.aether.miscellaneous": "test",
   "text.aether.presets": "test",
-  "text.aether.rewarp": "test"
+  "text.aether.rewarp": "test",
+  "text.aether.action": "test",
+  "text.aether.bps": "test",
+  "text.aether.freecam": "test",
+  "text.aether.general": "test",
+  "text.aether.rotation": "test"
 }
