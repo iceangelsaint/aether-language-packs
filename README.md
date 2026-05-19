@@ -9,6 +9,7 @@ community contributions welcome! make a PR using en_us.json's content as the bas
 | --- | ---: | ---: |
 | `fr_ca` | 0/541 | 0.0% |
 | `jp_jp` | 317/541 | 58.6% |
+| `pr_us` | 258/541 | 47.7% |
 | `ru_ru` | 517/541 | 95.6% |
 | `test` | 541/541 | 100.0% |
 | `zh_cn` | 533/541 | 98.5% |
