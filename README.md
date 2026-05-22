@@ -7,10 +7,10 @@ community contributions welcome! make a PR using en_us.json's content as the bas
 
 | Locale | Covered | Percentage |
 | --- | ---: | ---: |
-| `jp_jp` | 317/541 | 58.6% |
-| `pr_us` | 258/541 | 47.7% |
-| `pt_pt` | 501/541 | 92.6% |
-| `ru_ru` | 517/541 | 95.6% |
-| `test` | 541/541 | 100.0% |
-| `zh_cn` | 533/541 | 98.5% |
+| `jp_jp` | 317/551 | 57.5% |
+| `pr_us` | 258/551 | 46.8% |
+| `pt_pt` | 501/551 | 90.9% |
+| `ru_ru` | 517/551 | 93.8% |
+| `test` | 541/551 | 98.2% |
+| `zh_cn` | 533/551 | 96.7% |
 <!-- translation-coverage:end -->

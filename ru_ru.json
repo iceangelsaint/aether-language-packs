@@ -539,5 +539,15 @@
   "text.aether.uses_a_hypixel_style_ban_screen_during_dynamic_rest": "Использует Бан-экран В Стиле Hypixel Во Время Динамического Отдыха",
   "text.aether.various_quality_of_life_features_for_farming": "Различные QOL-функции Для Фарминга",
   "text.aether.profit_hud": "HUD Прибыли",
-  "text.aether.tasty_cheese": "Tasty Cheese"
+  "text.aether.tasty_cheese": "Tasty Cheese",
+  "text.aether.harvest_turtellini": "Harvest Turtellini",
+  "text.aether.armor_stand": "armor stand",
+  "text.aether.no_skulls_with_owner_profiles_found_within_d_blocks": "No skulls with owner profiles found within %d blocks.",
+  "text.aether.scanned_d_skulls_within_d_blocks": "Scanned %d skulls within %d blocks.",
+  "text.aether.skull_block": "skull block",
+  "text.aether.skull_s_s_id_s_at_1f_1f_1f": "Skull %s (%s) ID: %s at %.1f, %.1f, %.1f",
+  "text.aether.s_shape_sugar_cane": "S-Shape (Sugar Cane)",
+  "text.aether.check_for_auto_update_pre_launch": "Check for auto update pre-launch",
+  "text.aether.composter_position": "Composter Position",
+  "text.aether.composter_position_set": "Composter Position Set"
 }

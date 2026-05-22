@@ -542,10 +542,14 @@
   "text.aether.humanization": "test",
   "text.aether.miscellaneous": "test",
   "text.aether.presets": "test",
-  "text.aether.rewarp": "test",
-  "text.aether.action": "test",
-  "text.aether.bps": "test",
-  "text.aether.freecam": "test",
-  "text.aether.general": "test",
-  "text.aether.rotation": "test"
+  "text.aether.harvest_turtellini": "Harvest Turtellini",
+  "text.aether.armor_stand": "armor stand",
+  "text.aether.no_skulls_with_owner_profiles_found_within_d_blocks": "No skulls with owner profiles found within %d blocks.",
+  "text.aether.scanned_d_skulls_within_d_blocks": "Scanned %d skulls within %d blocks.",
+  "text.aether.skull_block": "skull block",
+  "text.aether.skull_s_s_id_s_at_1f_1f_1f": "Skull %s (%s) ID: %s at %.1f, %.1f, %.1f",
+  "text.aether.s_shape_sugar_cane": "S-Shape (Sugar Cane)",
+  "text.aether.check_for_auto_update_pre_launch": "Check for auto update pre-launch",
+  "text.aether.composter_position": "Composter Position",
+  "text.aether.composter_position_set": "Composter Position Set"
 }
